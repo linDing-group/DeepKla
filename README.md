@@ -6,6 +6,7 @@ DeepKla provides a deep-learning method for lactylation site prediction. It is i
 Installation
 Download DeepKla by
 git clone https://github.com/linDing-group/DeepKla
+
 Installation has been tested in Mac OS X with Python 2.7.
 
 Since the package is written in python 2.7, python 2.7 with the pip tool must be installed first. DeepKla uses the following dependencies: numpy, h5py, keras version=2.0.6 You can install these packages first, by the following commands:
