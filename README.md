@@ -2,6 +2,7 @@
 an attention mechanism-based deep neural network for protein lysine lactylation site prediction in Rice (Oryza sativa)
 
 DeepKla provides a deep-learning method for lactylation site prediction. It is implemented by deep learning library Keras and Tensorflow backend. At present, DeepKla only provides prediction of rice lactylation sites; however, it also provides customized model training that enables users to train other PTM prediction models by using their own training data sets.
+
 Installation
 Download DeepKla by
 git clone https://github.com/linDing-group/DeepKla
