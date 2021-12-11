@@ -35,6 +35,9 @@ python load_model.py ../data/fungiForTest.fa fungiForTest_predict_result.txt fun
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 For advanced users who want to perform training by using their own data:
+
 For training:
+
 python ../SEL_CNN_BiGRU_Attention.py
+
 Note: You need to change fastafile, modelfile, pklfile, and model_save's name on your own.
