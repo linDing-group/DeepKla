@@ -12,9 +12,13 @@ Installation has been tested in Mac OS X with Python 2.7.
 Since the package is written in python 2.7, python 2.7 with the pip tool must be installed first. DeepKla uses the following dependencies: numpy, h5py, keras version=2.0.6 
 
 You can install these packages first, by the following commands:
+
 pip install numpy
+
 pip install h5py
+
 pip install -v keras==2.0.6
+
 pip install tensorflow
 
 
