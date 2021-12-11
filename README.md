@@ -23,10 +23,16 @@ pip install tensorflow
 
 
 Predict on your own data :
-cd to the predict folder which contains load_model.py, run:
+cd to the predict folder which contains load_model.py, 
+run:
+
 python load_model.py <your_test_file>.fa <predict_result>.txt <pklFile>
+
 Example:
-python load_model.py ../data/fungiForTest.fa fungiForTest_predict_result.txt fungiForTest.pkl ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+python load_model.py ../data/fungiForTest.fa fungiForTest_predict_result.txt fungiForTest.pkl 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 For advanced users who want to perform training by using their own data:
 For training:
