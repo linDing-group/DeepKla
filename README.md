@@ -38,6 +38,6 @@ For advanced users who want to perform training by using their own data:
 
 For training:
 
-python ../SEL_CNN_BiGRU_Attention.py
+python ../SEL_CNN_BiGRU_Attention.py (Computational time: 6453.411189s)
 
 Note: You need to change fastafile, modelfile, pklfile, and model_save's name on your own.
